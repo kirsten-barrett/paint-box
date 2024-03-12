@@ -1,0 +1,16 @@
+body {
+  background-color: gray;
+  padding: 10px;
+}
+
+h1 {
+  font-family: Times;
+  padding: 10px;
+  color: white;
+}
+
+canvas {
+  position: fixed;
+  border: 10px solid white;
+  padding: 10px;
+}
